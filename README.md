@@ -2,8 +2,6 @@
 
 FetchMatch is an AI-assisted rescue dog matching prototype. It turns inconsistent adoption-listing prose into structured dog profiles, then compares those profiles against an adopter questionnaire using compatibility scoring, safety filters, distance checks, and explainable match reasoning.
 
-Live demo: https://fetchmatch-beta.vercel.app/
-
 ## What it does
 
 - Represents each dog as a typed profile with behaviour, household, training, reactivity, size, location, and living-requirement fields.
